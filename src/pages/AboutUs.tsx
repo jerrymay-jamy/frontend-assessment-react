@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import PageContainer from "./PageContainer";
-import { colors, fonts } from "../assets/themed";
+import { fonts } from "../assets/themed";
 
 const AboutUs: React.FC = () => {
     return (
